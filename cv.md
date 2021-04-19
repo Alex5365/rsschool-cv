@@ -52,7 +52,6 @@
     public void onStop()
     {
         super.onStop();
-        //Передача обьекта Crime в CrimeListFragment
     }
 
     @Override
